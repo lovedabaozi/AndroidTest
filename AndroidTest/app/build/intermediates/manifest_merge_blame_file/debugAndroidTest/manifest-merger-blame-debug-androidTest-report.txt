@@ -3,35 +3,35 @@
 3    package="com.java.androidtest.test" >
 4
 5    <uses-sdk
-5-->/Users/lijingting/Desktop/log/AndroidTest/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2422787894300615444.xml:5:5-74
+5-->/Users/lijingting/Desktop/log/AndroidTest/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4944491020848214447.xml:5:5-74
 6        android:minSdkVersion="28"
-6-->/Users/lijingting/Desktop/log/AndroidTest/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2422787894300615444.xml:5:15-41
+6-->/Users/lijingting/Desktop/log/AndroidTest/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4944491020848214447.xml:5:15-41
 7        android:targetSdkVersion="29" />
-7-->/Users/lijingting/Desktop/log/AndroidTest/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2422787894300615444.xml:5:42-71
+7-->/Users/lijingting/Desktop/log/AndroidTest/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4944491020848214447.xml:5:42-71
 8
 9    <instrumentation
-9-->/Users/lijingting/Desktop/log/AndroidTest/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2422787894300615444.xml:11:5-15:70
+9-->/Users/lijingting/Desktop/log/AndroidTest/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4944491020848214447.xml:11:5-15:70
 10        android:name="androidx.test.runner.AndroidJUnitRunner"
-10-->/Users/lijingting/Desktop/log/AndroidTest/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2422787894300615444.xml:11:22-76
+10-->/Users/lijingting/Desktop/log/AndroidTest/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4944491020848214447.xml:11:22-76
 11        android:functionalTest="false"
-11-->/Users/lijingting/Desktop/log/AndroidTest/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2422787894300615444.xml:14:22-52
+11-->/Users/lijingting/Desktop/log/AndroidTest/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4944491020848214447.xml:14:22-52
 12        android:handleProfiling="false"
-12-->/Users/lijingting/Desktop/log/AndroidTest/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2422787894300615444.xml:13:22-53
+12-->/Users/lijingting/Desktop/log/AndroidTest/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4944491020848214447.xml:13:22-53
 13        android:label="Tests for com.java.androidtest"
-13-->/Users/lijingting/Desktop/log/AndroidTest/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2422787894300615444.xml:15:22-68
+13-->/Users/lijingting/Desktop/log/AndroidTest/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4944491020848214447.xml:15:22-68
 14        android:targetPackage="com.java.androidtest" />
-14-->/Users/lijingting/Desktop/log/AndroidTest/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2422787894300615444.xml:12:22-66
+14-->/Users/lijingting/Desktop/log/AndroidTest/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4944491020848214447.xml:12:22-66
 15
 16    <uses-permission android:name="android.permission.REORDER_TASKS" />
 16-->[androidx.test:core:1.1.0] /Users/lijingting/.gradle/caches/transforms-2/files-2.1/b700bfc0f9180812ac817088e66c00b6/core-1.1.0/AndroidManifest.xml:24:5-72
 16-->[androidx.test:core:1.1.0] /Users/lijingting/.gradle/caches/transforms-2/files-2.1/b700bfc0f9180812ac817088e66c00b6/core-1.1.0/AndroidManifest.xml:24:22-69
 17
 18    <application android:debuggable="true" >
-18-->/Users/lijingting/Desktop/log/AndroidTest/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2422787894300615444.xml:7:5-9:19
-18-->/Users/lijingting/Desktop/log/AndroidTest/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2422787894300615444.xml:7:18-43
+18-->/Users/lijingting/Desktop/log/AndroidTest/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4944491020848214447.xml:7:5-9:19
+18-->/Users/lijingting/Desktop/log/AndroidTest/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4944491020848214447.xml:7:18-43
 19        <uses-library android:name="android.test.runner" />
-19-->/Users/lijingting/Desktop/log/AndroidTest/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2422787894300615444.xml:8:9-60
-19-->/Users/lijingting/Desktop/log/AndroidTest/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger2422787894300615444.xml:8:23-57
+19-->/Users/lijingting/Desktop/log/AndroidTest/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4944491020848214447.xml:8:9-60
+19-->/Users/lijingting/Desktop/log/AndroidTest/app/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger4944491020848214447.xml:8:23-57
 20
 21        <activity
 21-->[androidx.test:core:1.1.0] /Users/lijingting/.gradle/caches/transforms-2/files-2.1/b700bfc0f9180812ac817088e66c00b6/core-1.1.0/AndroidManifest.xml:27:9-33:20

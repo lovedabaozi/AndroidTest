@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/lijingting/Desktop/log/AndroidTest/app/build/intermediates/res/merged/debug/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/lijingting/.android/build-cache/cf040452e638cdffba80a719aa21e12b758b5985/output/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/lijingting/Desktop/log/AndroidTest/app/build/intermediates/res/merged/debug/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/lijingting/.android/build-cache/cf040452e638cdffba80a719aa21e12b758b5985/output/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]

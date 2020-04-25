@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/lijingting/Desktop/log/AndroidTest/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/lijingting/.android/build-cache/cf040452e638cdffba80a719aa21e12b758b5985/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/lijingting/Desktop/log/AndroidTest/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/lijingting/.android/build-cache/a7a96976af9a60bdc2cf1cb7ddca5cd7d9d6a20c/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/lijingting/Desktop/log/AndroidTest/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/lijingting/.android/build-cache/cf040452e638cdffba80a719aa21e12b758b5985/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/lijingting/Desktop/log/AndroidTest/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/lijingting/.android/build-cache/cf040452e638cdffba80a719aa21e12b758b5985/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/lijingting/Desktop/log/AndroidTest/app/build/intermediates/res/merged/debug/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/lijingting/.android/build-cache/cf040452e638cdffba80a719aa21e12b758b5985/output/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/lijingting/Desktop/log/AndroidTest/app/build/intermediates/res/merged/debug/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/lijingting/.android/build-cache/cf040452e638cdffba80a719aa21e12b758b5985/output/res/drawable-v21/abc_list_divider_material.xml"
+    }
+]
