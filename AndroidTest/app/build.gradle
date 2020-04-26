@@ -22,7 +22,11 @@ android {
 
     lintOptions {
         abortOnError false;
+        //基准检测 只检测新问题
+        baseline file("lint-baseline.xml")
     }
+
+
 }
 
 
